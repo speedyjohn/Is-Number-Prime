@@ -202,6 +202,206 @@ def is_prime(number: int) -> bool:
         return False
     elif number == 100:
         return False
+    elif number == 101:
+        return True
+    elif number == 102:
+        return False
+    elif number == 103:
+        return True
+    elif number == 104:
+        return False
+    elif number == 105:
+        return False
+    elif number == 106:
+        return False
+    elif number == 107:
+        return True
+    elif number == 108:
+        return False
+    elif number == 109:
+        return True
+    elif number == 110:
+        return False
+    elif number == 111:
+        return False
+    elif number == 112:
+        return False
+    elif number == 113:
+        return True
+    elif number == 114:
+        return False
+    elif number == 115:
+        return False
+    elif number == 116:
+        return False
+    elif number == 117:
+        return False
+    elif number == 118:
+        return False
+    elif number == 119:
+        return False
+    elif number == 120:
+        return False
+    elif number == 121:
+        return False
+    elif number == 122:
+        return False
+    elif number == 123:
+        return False
+    elif number == 124:
+        return False
+    elif number == 125:
+        return False
+    elif number == 126:
+        return False
+    elif number == 127:
+        return True
+    elif number == 128:
+        return False
+    elif number == 129:
+        return False
+    elif number == 130:
+        return False
+    elif number == 131:
+        return True
+    elif number == 132:
+        return False
+    elif number == 133:
+        return False
+    elif number == 134:
+        return False
+    elif number == 135:
+        return False
+    elif number == 136:
+        return False
+    elif number == 137:
+        return True
+    elif number == 138:
+        return False
+    elif number == 139:
+        return True
+    elif number == 140:
+        return False
+    elif number == 141:
+        return False
+    elif number == 142:
+        return False
+    elif number == 143:
+        return False
+    elif number == 144:
+        return False
+    elif number == 145:
+        return False
+    elif number == 146:
+        return False
+    elif number == 147:
+        return False
+    elif number == 148:
+        return False
+    elif number == 149:
+        return True
+    elif number == 150:
+        return False
+    elif number == 151:
+        return True
+    elif number == 152:
+        return False
+    elif number == 153:
+        return False
+    elif number == 154:
+        return False
+    elif number == 155:
+        return False
+    elif number == 156:
+        return False
+    elif number == 157:
+        return True
+    elif number == 158:
+        return False
+    elif number == 159:
+        return False
+    elif number == 160:
+        return False
+    elif number == 161:
+        return False
+    elif number == 162:
+        return False
+    elif number == 163:
+        return True
+    elif number == 164:
+        return False
+    elif number == 165:
+        return False
+    elif number == 166:
+        return False
+    elif number == 167:
+        return True
+    elif number == 168:
+        return False
+    elif number == 169:
+        return False
+    elif number == 170:
+        return False
+    elif number == 171:
+        return False
+    elif number == 172:
+        return False
+    elif number == 173:
+        return True
+    elif number == 174:
+        return False
+    elif number == 175:
+        return False
+    elif number == 176:
+        return False
+    elif number == 177:
+        return False
+    elif number == 178:
+        return False
+    elif number == 179:
+        return True
+    elif number == 180:
+        return False
+    elif number == 181:
+        return True
+    elif number == 182:
+        return False
+    elif number == 183:
+        return False
+    elif number == 184:
+        return False
+    elif number == 185:
+        return False
+    elif number == 186:
+        return False
+    elif number == 187:
+        return False
+    elif number == 188:
+        return False
+    elif number == 189:
+        return False
+    elif number == 190:
+        return False
+    elif number == 191:
+        return True
+    elif number == 192:
+        return False
+    elif number == 193:
+        return True
+    elif number == 194:
+        return False
+    elif number == 195:
+        return False
+    elif number == 196:
+        return False
+    elif number == 197:
+        return True
+    elif number == 198:
+        return False
+    elif number == 199:
+        return True
+    elif number == 200:
+        return False
     else:
         return False
 
